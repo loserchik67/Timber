@@ -94,6 +94,7 @@ int main()
         cloudSpeeds[i] = 0;
 
     }
+    //make a more efficient loop for this but save for future reference
     /*
     //Make 3 clouds
     Texture textureCloud;
